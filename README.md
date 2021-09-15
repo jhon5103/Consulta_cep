@@ -1,2 +1,1 @@
-"# Consulta_cep" 
-"# Consulta_cep" 
+Requisitando endereço usando a biblioteca requests
